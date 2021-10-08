@@ -1,5 +1,5 @@
-#GCD
-
+# GCD
+# Euclidean Algo
 def gcd(a,b):
     if b==0:
         return a
